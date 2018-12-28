@@ -1,0 +1,9 @@
+C:\Users\WEI\Desktop\MvcCore\Core.Interface\bin\Debug\netcoreapp2.1\Core.Interface.deps.json
+C:\Users\WEI\Desktop\MvcCore\Core.Interface\bin\Debug\netcoreapp2.1\Core.Interface.dll
+C:\Users\WEI\Desktop\MvcCore\Core.Interface\bin\Debug\netcoreapp2.1\Core.Interface.pdb
+C:\Users\WEI\Desktop\MvcCore\Core.Interface\obj\Debug\netcoreapp2.1\Core.Interface.csprojAssemblyReference.cache
+C:\Users\WEI\Desktop\MvcCore\Core.Interface\obj\Debug\netcoreapp2.1\Core.Interface.csproj.CoreCompileInputs.cache
+C:\Users\WEI\Desktop\MvcCore\Core.Interface\obj\Debug\netcoreapp2.1\Core.Interface.AssemblyInfoInputs.cache
+C:\Users\WEI\Desktop\MvcCore\Core.Interface\obj\Debug\netcoreapp2.1\Core.Interface.AssemblyInfo.cs
+C:\Users\WEI\Desktop\MvcCore\Core.Interface\obj\Debug\netcoreapp2.1\Core.Interface.dll
+C:\Users\WEI\Desktop\MvcCore\Core.Interface\obj\Debug\netcoreapp2.1\Core.Interface.pdb

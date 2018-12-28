@@ -1,0 +1,12 @@
+C:\Users\WEI\Desktop\MvcCore\Core.Service\bin\Debug\netcoreapp2.1\Core.Service.deps.json
+C:\Users\WEI\Desktop\MvcCore\Core.Service\bin\Debug\netcoreapp2.1\Core.Service.dll
+C:\Users\WEI\Desktop\MvcCore\Core.Service\bin\Debug\netcoreapp2.1\Core.Service.pdb
+C:\Users\WEI\Desktop\MvcCore\Core.Service\obj\Debug\netcoreapp2.1\Core.Service.csprojAssemblyReference.cache
+C:\Users\WEI\Desktop\MvcCore\Core.Service\obj\Debug\netcoreapp2.1\Core.Service.csproj.CoreCompileInputs.cache
+C:\Users\WEI\Desktop\MvcCore\Core.Service\obj\Debug\netcoreapp2.1\Core.Service.AssemblyInfoInputs.cache
+C:\Users\WEI\Desktop\MvcCore\Core.Service\obj\Debug\netcoreapp2.1\Core.Service.AssemblyInfo.cs
+C:\Users\WEI\Desktop\MvcCore\Core.Service\obj\Debug\netcoreapp2.1\Core.Service.dll
+C:\Users\WEI\Desktop\MvcCore\Core.Service\obj\Debug\netcoreapp2.1\Core.Service.pdb
+C:\Users\WEI\Desktop\MvcCore\Core.Service\bin\Debug\netcoreapp2.1\Core.Interface.dll
+C:\Users\WEI\Desktop\MvcCore\Core.Service\bin\Debug\netcoreapp2.1\Core.Interface.pdb
+C:\Users\WEI\Desktop\MvcCore\Core.Service\obj\Debug\netcoreapp2.1\Core.Service.csproj.CopyComplete

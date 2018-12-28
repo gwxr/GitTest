@@ -1,0 +1,9 @@
+C:\Users\WEI\Desktop\MvcCore\Core.Utility\bin\Debug\netcoreapp2.1\Core.Utility.deps.json
+C:\Users\WEI\Desktop\MvcCore\Core.Utility\bin\Debug\netcoreapp2.1\Core.Utility.dll
+C:\Users\WEI\Desktop\MvcCore\Core.Utility\obj\Debug\netcoreapp2.1\Core.Utility.csproj.CoreCompileInputs.cache
+C:\Users\WEI\Desktop\MvcCore\Core.Utility\obj\Debug\netcoreapp2.1\Core.Utility.AssemblyInfoInputs.cache
+C:\Users\WEI\Desktop\MvcCore\Core.Utility\obj\Debug\netcoreapp2.1\Core.Utility.AssemblyInfo.cs
+C:\Users\WEI\Desktop\MvcCore\Core.Utility\bin\Debug\netcoreapp2.1\Core.Utility.pdb
+C:\Users\WEI\Desktop\MvcCore\Core.Utility\obj\Debug\netcoreapp2.1\Core.Utility.dll
+C:\Users\WEI\Desktop\MvcCore\Core.Utility\obj\Debug\netcoreapp2.1\Core.Utility.pdb
+C:\Users\WEI\Desktop\MvcCore\Core.Utility\obj\Debug\netcoreapp2.1\Core.Utility.csprojAssemblyReference.cache
